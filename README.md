@@ -1,5 +1,7 @@
-#READ ME file 
+# READ ME file 
 
-#workflow 
-#sofware to open: Fiji 
-#data from saved data (internet required) from Fiji 
+[![DOI](https://zenodo.org/badge/213928562.svg)](https://zenodo.org/badge/latestdoi/213928562)
+
+# workflow 
+# sofware to open: Fiji 
+# data from saved data (internet required) from Fiji 
