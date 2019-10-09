@@ -1,5 +1,5 @@
-#READ ME file 
+# READ ME file 
 
-#workflow 
-#sofware to open: Fiji 
-#data from saved data (internet required) from Fiji 
+# workflow 
+# sofware to open: Fiji 
+# data from saved data (internet required) from Fiji 
