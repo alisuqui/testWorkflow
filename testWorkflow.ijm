@@ -31,7 +31,9 @@ run("Script...");
 run("Set Measurements...", "area mean standard min centroid center shape integrated display redirect=None decimal=3");
 
 //analyze particples and show results 
-run("Analyze Particles...", "  show=Outlines display exclude clear include");
+//to remove the small particle we set up the threshold from 10 to infinite rather than from 0 to infinite
+
+run("Analyze Particles...", "size=10-Infinity show=Outlines display exclude clear include");
 
 //save as, in the desktop
 saveAs("Results", "C:/Users/Ali/Desktop/imageJ/Results.csv");
